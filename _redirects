@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://sams-west-coast-swing.square.site/"
+  status = 301
+  force = true
